@@ -6,7 +6,7 @@ package za.ac.tut.employee;
 
 /**
  *
- * @author falcorp
+ * @author RoseBaloyi
  */
 class List<T> {
     
