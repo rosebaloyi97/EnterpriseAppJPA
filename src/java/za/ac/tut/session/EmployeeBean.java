@@ -11,7 +11,7 @@ import za.ac.tut.employee.EmployeeDTO;
 
 /**
  *
- * @author falcorp
+ * @author RoseBaloyi
  */
 @Stateless
 public class EmployeeBean implements EmployeeInterface {
